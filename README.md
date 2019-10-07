@@ -1,3 +1,8 @@
 # gitskill
-Creating a new branch is very quick and simple
-iii
+<<<<<<< HEAD
+Creating Q new branch is very quick and simple
+iii3
+=======
+Creating Q new branch is very quick and simple
+iii3
+>>>>>>> dev2

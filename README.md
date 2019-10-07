@@ -1,2 +1,6 @@
 # gitskill
-creating a new branch is very quick & simple
+<<<<<<< HEAD
+creating a new branch is very quick and simple
+=======
+creating a new branch is very quick and simple
+>>>>>>> feature1
